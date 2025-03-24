@@ -13,8 +13,8 @@ This project allows you to build a chatbot with any **PromptQL** project in minu
 
 ### 1️⃣ **Clone the Repository**  
 ```sh
-git clone <repo-url>
-cd <project-folder>
+git clone https://github.com/subham-sps/promptql-chatbot.git
+cd promptql-chatbot
 ```
 
 ### 2️⃣ **Set Up Environment Variables**  
